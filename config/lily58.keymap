@@ -46,7 +46,7 @@
                                               &trans            &trans       &trans    &kp C_AL_KEYBOARD_LAYOUT   &trans    &trans    &trans    &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp F24 F23 &inc_dec_kp F24 F23>;
+            sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp PG_UP PG_DN>;
         };
 
         raise_layer {
