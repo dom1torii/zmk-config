@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05"; # doesn't work with unstable for whatever reason?
 
     zmk-nix = {
       url = "github:lilyinstarlight/zmk-nix";
