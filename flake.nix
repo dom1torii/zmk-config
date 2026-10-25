@@ -43,7 +43,7 @@
           shield = "lily58_%PART% nice_oled";
           snippets = [ "zmk-usb-logging" ];
 
-          zephyrDepsHash = "sha256-m5Txw9ONlXsGGVKBeiWqBdiBx6nIgk/Pcq4sZPP7nEY=";
+          zephyrDepsHash = "";
 
           meta = {
             description = "ZMK firmware";
